@@ -1,0 +1,27 @@
+{
+  "name": "random_wallpaper",
+  "version": "1.0.0",
+  "description": "API that return random wallpaper.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aimerneige/random_wallpaper.git"
+  },
+  "keywords": [
+    "API",
+    "nodejs",
+    "express"
+  ],
+  "author": "AimerNeige",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aimerneige/random_wallpaper/issues"
+  },
+  "homepage": "https://github.com/aimerneige/random_wallpaper#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
