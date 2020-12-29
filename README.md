@@ -6,6 +6,8 @@ API that return random wallpaper.
 
 Build with node.
 
+For Learning use. Don't use this on production env.
+
 ## Require
 
 - nodejs
